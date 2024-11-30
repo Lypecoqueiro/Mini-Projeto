@@ -35,7 +35,7 @@ O dataset coletado inclui as seguintes colunas principais e o que cada uma repre
 - `dec`: Declinação (em graus).
 - `mag_g`, `mag_r`, `mag_i`: Magnitudes nas bandas g, r e i.
 - `err_g`, `err_r`, `err_i`: Erros associados às magnitudes.
-- `gmr` : Contém a diferença entre as magnitudes nas bandas g e r de cada objeto. Essa diferença é usada para calcular a cor de um objeto celeste e assim ser feito o diagrama Cor-Magnitude.
+- `gmr` : Contém a diferença entre as magnitudes nas bandas g e r de cada objeto. Essa diferença é usada para calcular o índice de cor de um objeto celeste e assim ser feito o diagrama Cor-Magnitude.
 
 ## 4 Diagrama Cor-Magnitude
 O diagrama cor-magnitude foi gerado com base nas magnitudes das bandas g, r e i. A cor foi
