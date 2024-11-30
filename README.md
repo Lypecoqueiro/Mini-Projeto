@@ -1,4 +1,4 @@
-#Análise de Dados do Dark Energy Survey (DES)
+# Análise de Dados do Dark Energy Survey (DES)
 
 ## Resumo
 Este mini-projeto utiliza dados públicos do Dark Energy Survey (DES) DR2 para explorar uma região específica do céu definida por restrições de Ascensão Reta (RA) e Declinação (Dec). Foram realizados uma análise exploratória dos objetos presentes, a geração de diagrama cor-magnitude e gráfico de distribuição de objetos, com foco em compreender populações de estrelas na região selecionada.
